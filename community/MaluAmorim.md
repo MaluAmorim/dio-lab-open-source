@@ -11,7 +11,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Social media<h2>
 
-<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
+<div style="display: flex; align-items:center; justify-content: space-around">
 <br>
 
 [![Perfil DIO](https://img.shields.io/badge/-My%20Profile%20on%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/maluar1/)
@@ -27,7 +27,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Programming Languages and Frameworks/libraries<h2>
 
-<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
+<div style="display: flex; align-items:center; justify-content: space-around">
 <br>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -47,7 +47,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Markup and Style Languages<h2>
 
-<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
+<div style="display: flex; align-items:center; justify-content: space-around">
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -59,7 +59,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Digital Art<h2>
 
-<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
+<div style="display: flex; align-items:center; justify-content: space-around">
 <br>
 
 ![PixelArt](https://img.shields.io/badge/Pixel_Art-000?style=for-the-badge&logo=3B8EA5)
@@ -69,7 +69,7 @@ Front-end / back-end developer<img width="40" height="40" src="https://img.icons
 
 <h2>Tools<h2>
 
-<div style="display: flex; justify-content: center align-items:center; justify-content: space-around">
+<div style="display: flex; align-items:center; justify-content: space-around">
 <br>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
